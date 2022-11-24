@@ -1,0 +1,104 @@
+[
+    {
+        "id":"0",
+        "image":"Content/DrJhimliBhattacharyya.jpg",
+        "name":"Dr. Jhimli Bhattacharyya",
+        "Groupposition":"Group Head",
+        "designation":"Assistant Professor in Chemistry, <br/>   NIT Nagaland",
+        "personalemail": "jhimli.bhattacharyya@gmail.com",
+        "officemail": "jhimli@nitnagaland.ac.in",
+        "phone": "+91 9830458505",
+        "officephone": "+91 3862241805 ",
+        "address":"Department of Chemistry <br/> NIT Nagaland, Chumukeidma, Dimapur, Nagaland 797103, INDIA"
+},
+{
+    "id":"1",
+    "image":"Content/DrAMavani.jpg",
+        "name":"Ms. A. Mavani",
+        "Groupposition":"Group Member",
+        "designation":"DST Women Scientist-A at <br/> NIT Nagaland, Dimapur ",
+        "personalemail": "mavanikape@gmail.com",
+        "officemail": "mavaninitnagaland@gmail.com",
+        "phone": " ",
+        "officephone": " "
+},
+{
+    "id":"2",
+    "image":"Content/DrAbenOvung.png",
+        "name":"Dr. AbenOvung",
+        "Groupposition":"Group Member",
+        "designation":"PhD in Chemistry (March 2022) from NIT Nagaland",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " "
+},
+{
+    "id":"3",
+    "image":"Content/SochingLuikham.jpg",
+        "name":"Soching Luikham",
+        "Groupposition":"Group Member",
+        "designation":" Research Scholar at NIT Nagaland ",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " "
+        
+},
+{
+    "id":"4",
+    "image": "Content/RengkaTissopi.jpg",
+        "name": "Rengka Tissopi",
+        "Groupposition": "Group Member",
+        "designation": "Research Scholar at NIT Nagaland ",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " "
+},
+{
+    "id":"5",
+    "image": "Content/DeepakDas.jpg",
+        "name": "Deepak Das",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland ",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " "
+},
+{
+    "id":"6",
+    "image": "Content/VibeizonuoRupreo.jpg",
+        "name": "Vibeizonuo Rupreo",
+        "Groupposition": "Group Member",
+        "designation": " Pursuing PhD from NIT Nagaland",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " "
+},
+{
+    "id":"7",
+    "image": "Content/AkitoISema.jpg",
+        "name": "Akito I. Sema",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland ",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " "
+},
+{
+    "id":"8",
+    "image": "Content/NungshiobaJamir.jpg",
+        "name": "Nungshioba Jamir",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland ",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " "
+}
+]
+

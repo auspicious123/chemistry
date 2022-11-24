@@ -1,0 +1,628 @@
+[
+    {
+        "id": "0",
+        "image": "Content/DrJhimliBhattacharyya.jpg",
+        "name": "Dr. Jhimli Bhattacharyya",
+        "Groupposition": "Group Head",
+        "designation": "Assistant Professor in Chemistry",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, eligendi dolorum sequi illum qui unde aspernatur non deserunt",
+        "firstname": "Jhimli",
+        "lastname": "Bhattacharyya",
+        "personalemail": "jhimli.bhattacharyya@gmail.com",
+        "officemail": "jhimli@nitnagaland.ac.in",
+        "phone": "+91 9830458505",
+        "officephone": "+91 3862241805 ",
+        "gender": "Female",
+        "totalProject": 5,
+        "totalAward": 7,
+        "totalexperience": 2,
+        "totaleducation": 3,
+        "education": [
+            {
+                "college": "Doctorate: Ph.D (Science) from Jadavpur University",
+                "year": "Thesis title: Mechanistic Studies of redox reactions of diiron(III,III) complexes in aqueous solution, November 2007 "
+            },
+            {
+                "college": "Master of Science: M.Sc in Chemistry from Jadavpur University",
+                "year": "2001, Specialization: Inorganic Chemistry. [1st Class]"
+            },
+            {
+                "college": "Bachelor of Science: B.Sc with Honours in Chemistry with Biochemistry as optional paper from Calcutta University",
+                "year": "1999, [1st Class]"
+            }
+        ],
+        "experience": [
+            {
+                "experiencedesc": "Research Associate: Biophysical Chemistry Lab, Chemistry Division, Indian Institute of Chemical Biology (IICB), Kolkata, India",
+                "year": "June 2011 – August 2013"
+            },
+            {
+                "experiencedesc": "Post Doctoral Fellow: Frontier Institute for Biomolecular Engineering Research (FIBER), Konan University, Kobe, Japan",
+                "year": "June 2008 – March 2011"
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": "Fellow, Indian Chemical Society",
+                "year": ""
+            },
+            {
+                "awardsdesc": "2016 Fulbright-Nehru International Education Administrators Seminar",
+                "year": "Awarded by Fulbright Commission, USIEF (Oct 2016)."
+            },
+            {
+                "awardsdesc": "Research Associate fellowship from Council of Scientific and Industrial Research(CSIR)",
+                "year": "Govt. of India in 2012."
+            },
+            {
+                "awardsdesc": "Post Doctoral Fellowship (from JSPS project) from Frontier Institute for Biomolecular Engineering Research (FIBER)",
+                "year": "Konan University, Kobe, Japan in 2008"
+            },
+            {
+                "awardsdesc": "Joint CSIR-UGC National Eligibility Test (NET)",
+                "year": "June 2003"
+            },
+            {
+                "awardsdesc": "Graduate Aptitude Test in Engineering (GATE)",
+                "year": "February 2003"
+            },
+            {
+                "awardsdesc": "National Merit Scholar",
+                "year": "Govt. of India: 1993, 1995."
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": "Award Grant for “2016 Fulbright-Nehru International Education Administrators Seminar” at Washington DC metro and North Carolina",
+                "year": "Funded/awarded by Fulbright Commission, USIEF (Oct 2016). (not availed)"
+            },
+            {
+                "projectdesc": "Drug-Gold Nano Particle Bioconjugates: Synthesis, Characterization and Applications under Dilute and Molecular Crowding condition",
+                "year": "Funded by UGC-DAE, Mumbai Center, BARC, Mumbai (Jan 2017 – ongoing)"
+            },
+            {
+                "projectdesc": "Study of non-edible plant oils of North-East: Extraction, compositional Characterization and Analysis for Industrial Applications",
+                "year": "Funded by North Eastern Council, Govt. of India (Jan 2017 – Dec 2019). (as Co-PI)"
+            },
+            {
+                "projectdesc": "Biophysical Studies of DNA Interaction with Indole Alkaloids Extracted from North East Indian Biodiversity funded by DBT",
+                "year": "Govt. of India (April 2019 – March ongoing)"
+            },
+            {
+                "projectdesc": "On Structure-Function Relationship Studies of Protein with Ligands Derived from Medicinal Plants of Nagaland: A Robust Approach for Drug Design",
+                "year": "Funded by TEQIP –III National Institute of Technology Nagaland (Sept 2019 – ongoing)"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "image": "Content/DrAMavani.jpg",
+        "name": "Ms. A. Mavani",
+        "Groupposition": "Group Member",
+        "designation": "DST Women Scientist-A at NIT Nagaland",
+        "about":"Assessment of antimicrobial effects on biomacromolecules (proteins, DNA etc.), synthesizing nanoparticles, drug-protein interaction study, enhancing bioavailability of drug by using surfactants, nanoparticles etc. ",
+        "researchIntrest": "Assessment of antimicrobial effects on biomacromolecules (proteins, DNA etc.), synthesizing nanoparticles, drug-protein interaction study, enhancing bioavailability of drug by using surfactants, nanoparticles etc. ",
+        "firstname": "A",
+        "lastname": "Mavani",
+        "personalemail": "mavanikape@gmail.com",
+        "officemail": "mavaninitnagaland@gmail.com",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Female",
+        "address": "NIT Nagaland, Chumukeidma, Dimapur, Nagaland 797103, INDIA",
+        "permanentaddress": "NIT Nagaland, Chumukeidma, Dimapur, Nagaland 797103, INDIA",
+        "totaleducation": 0,
+        "totalexperience": 2,
+        "totalAward": 0,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": " ",
+                "year": " "
+            },
+            {
+                "college": " ",
+                "year": " "
+            }
+        ],
+        "experience": [
+            {
+                "experiencedesc": "Project PI of Women Scientist Scheme – A (WOS-A) Award Grant,",
+                "year": "Project entitled “Elucidation of binding interactions between human proteins and sulfanilamide drugs through biophysical technique.” (DST/WOS-A/CS-83/2019), funded/awarded by Ministry of Science and Technology, Department o Science and Technology, Govt. of India"
+            },
+            {
+                "experiencedesc": "Project fellow in a UGC-DAE project entitled “Drug-Gold Nano Particle Bioconjugates: Synthesis, Characterization and Applications under Dilute and Molecular Crowding condition",
+                "year": "(CRS-M-266)  funded by UGC-DAE, Mumbai Center, BARC, Mumbai under the guidance of Dr. Jhimli Bhatcharyya, Department of Chemistry, National Institute of Technology Nagaland, Dimapur, India."
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": " ",
+                "year": " "
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "image": "Content/DrAbenOvung.png",
+        "name": "Dr. AbenOvung",
+        "Groupposition": "Group Member",
+        "designation": "PhD in Chemistry from NIT Nagaland",
+        "about":"Hi, my name is Dr. AbenOvung. I completed my PhD in Chemistry (March 2022) from National Institute of Technology,Nagaland. I did my Masters in Chemistry from North Eastern Hill University, Shillong, Meghalaya. I love singing and playing violin.",
+        "aboutdesc": "Hi, my name is Dr. AbenOvung. I completed my PhD in Chemistry (March 2022) from National Institute of Technology, Nagaland. I did my Masters in Chemistry from North Eastern Hill University, Shillong, Meghalaya. I love singing and playing violin.",
+        "researchIntrest": " ",
+        "firstname": "AbenOvung",
+        "lastname": " ",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Male",
+        "totaleducation": 2,
+        "totalexperience": 0,
+        "totalAward": 0,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": " ",
+                "year": " "
+            },
+            {
+                "college": "North Eastern Hill University, Shillong, Meghalaya ",
+                "year": " "
+            },
+            {
+                "college": "National Institute of Technology, Nagaland ",
+                "year": " 2022 "
+            }
+        ],
+        "experience": [
+            {
+                "experience1": [
+                    {
+                        "experiencedesc": " ",
+                        "year": " "
+                    }
+                ],
+                "experience2": [
+                    {
+                        "experiencedesc": " ",
+                        "year": " "
+                    }
+                ]
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": " ",
+                "year": " "
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "image": "Content/SochingLuikham.jpg",
+        "name": "Soching Luikham ",
+        "Groupposition": "Group Member",
+        "designation": "Research Scholar at NIT Nagaland",
+        "about":"Hey, I’m Soching Luikham I received my Master’s degree from Pune University. Currently a Research Scholar at NIT Nagaland. A lot of my time goes by learning new adventurous things. I am a big time “Foodie”. Working in lab has helped me discover my love and keen interest for research. My non-scientific interests include- singing, traveling, and exploring different cuisines.",
+        "researchIntrest": " ",
+        "firstname": "Soching ",
+        "lastname": "Luikham ",
+        "personalemail": " ",
+        "officemail": "  ",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Male",
+        "totaleducation": 0,
+        "totalexperience": 0,
+        "totalAward": 13,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": " ",
+                "year": " "
+            },
+            {
+                "college": " ",
+                "year": " "
+            }
+        ],
+        "experience": [
+            {
+                "experiencedesc": " ",
+                "year": " "
+            },
+            {
+                "experiencedesc": " ",
+                "year": " "
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": "First prize in poster presentation in national conference on “Faunal Diversity: Assessment and Conservation (FDAC-2016) ",
+                "year": "Held on 22nd and 23rd January, 2016 organized by Modern College of Arts, Science and Commerce, Ganeshkhind, Pune "
+            },
+            {
+                "awardsdesc": "First Consolation Prize in poster presentation in national conference on 2nd Mini-symposium on Cell Biology ",
+                "year": "Held on 11th May, 2016 organized by National Centre for Cell Science, Pune. (Poster presentation)"
+            },
+            {
+                "awardsdesc": "First prize in poster presentation in national conference on National Conference on Innovative Research in Life Science (IRLS) ",
+                "year": "Held on 26th and 27th February, 2016 organized by Sinhgad College of Science, Pune"
+            },
+            {
+                "awardsdesc": "First prize in poster presentation in Zoofest 2015 ",
+                "year": "Held on 2nd and 3rd February, 2015 organized by Modern College of Arts, Science and Commerce, Ganeshkhind, Pune"
+            },
+            {
+                "awardsdesc": "Best question award in two-day international symposium on Microbial Ecology and Systematics ",
+                "year": "Held on 16th to 17th September, 2016 organized by Microbial culture collection NCCS, Pune"
+            },
+            {
+                "awardsdesc": "Best Student Award of Modern College Ganeshkhind 2016-2017 by Modern college of Arts Science and commerce, Pune",
+                "year": " "
+            },
+            {
+                "awardsdesc": "Special Achievement Award 2017 by Modern college of Arts, Science and Commerce, Pune",
+                "year": " "
+            },
+            {
+                "awardsdesc": "GATE (Graduate Aptitude Test in Engineering) in Life Science",
+                "year": "conducted by Govt. of India, in 2019, organized by Indian Institute of technology (IIT), Madras "
+            },
+            {
+                "awardsdesc": "Second Prize in Start-up India Nagaland Yatra on Social Start-up Category 2019",
+                "year": " "
+            },
+            {
+                "awardsdesc": "Second Prize in oral presentation in International Webinar on “History of Science”",
+                "year": "Held on 27th and 28th of July, 2020 organized by Dept. of Chemistry, Shri Shikshayatan College and Institute of Science, Education and Culture (ISEC) in collaboration with Indian Chemical Society"
+            },
+            {
+                "awardsdesc": "Young Scientist Award (Professor S. T. Nandibewoor Award) recipient in oral presentation in 58th Annual Convention of Chemists & International Conference on Recent trends in Chemical Sciences (ACC-RTCS)",
+                "year": "21st – 24th December 2021 organized by Indian Chemical Society, Kolkata, India."
+            },
+            {
+                "awardsdesc": "Second Prize in oral presentation in Symposium on “Chemical Education in Self Reliance: A Global Perspective”",
+                "year": "Held on 23rd of June, 2022 at Kohima and organized by CSIR-North East Institute of Science and Technology and Royal Society of Chemistry"
+            },
+            {
+                "awardsdesc": "Travel Grant awarded by European Molecular Biology Organization (EMBO) to attend India|EMBO lecture course on “Functional nucleic acids: Recent landscapes and therapeutic applications” ",
+                "year": "held on 16th – 19th August 2022 at Regional Centre of Biotechnology, Faridabad, India and organized by EMBO and India alliance DBT welcome"
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "image": "Content/RengkaTissopi.jpg",
+        "name": "Rengka Tissopi",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland",
+        "aboutdesc": "In the year 2022, I joined NIT Nagaland as research scholar, hailing from the West Karbi AngIong district of Assam. In my spare time, I enjoy arts and crafts.",
+        "researchIntrest": " ",
+        "about":"Hi, I’m Rengka. In the year 2022, I joined NIT Nagaland as research scholar, hailing from the West Karbi AngIong district of Assam. In my spare time, I enjoy arts and crafts.",
+        "firstname": "Rengka",
+        "lastname": "Tissopi",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Male",
+        "totaleducation": 2,
+        "totalexperience": 0,
+        "totalAward": 0,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": "M.Sc. (2020), B.Ed. (2022) - Gauhati University, Assam ",
+                "year": " 2022"
+            },
+            {
+                "college": "GATE (2020) Qualified ",
+                "year": " 2020 "
+            }
+        ],
+        "experience": [
+            {
+                "experiencedesc": " ",
+                "year": " "
+            },
+            {
+                "experiencedesc": " ",
+                "year": " "
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": " ",
+                "year": " "
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "image": "Content/DeepakDas.jpg",
+        "name": "Deepak Das",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland",
+        "aboutdesc": " ",
+        "researchIntrest": " ",
+        "about":"",
+        "firstname": "Deepak",
+        "lastname": "Das",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Male",
+        "totaleducation": 3,
+        "totalexperience": 1,
+        "totalAward": 0,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": "B.Sc from Kohima Science College, Jotsoma  ",
+                "year": "2020 "
+            },
+            {
+                "college": "M.Sc from St. Joseph University,  Chumukedima ",
+                "year": " 2022"
+            },
+            {
+                "college": "GATE (2020) Qualified ",
+                "year": " 2020 "
+            }
+        ],
+        "experience": [
+            {
+                "experiencedesc": "Represented India for the Youth Exchange Programme  ",
+                "year": "In the year 2019 at Kazakhstan "
+            },
+            {
+                "experiencedesc": " ",
+                "year": " "
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": " ",
+                "year": " "
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "image": "Content/VibeizonuoRupreo.jpg",
+        "name": "Vibeizonuo Rupreo",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland",
+        "aboutdesc": "My name is Vibeizonuo Rupreo also known by the name Jez, I have completed my Masters majoring in Chemistry and currently pursuing my PhD from NIT, Nagaland. When I am not working on Researches, I usually spend my time connecting with music by singing for a national band. Oh and yah I have a pet name princess",
+        "researchIntrest": " ",
+        "about":"Hello everyone! My name is Vibeizonuo Rupreo also known by the name Jez, I have completed my Masters majoring in Chemistry and currently pursuing my PhD from NIT, Nagaland. When I am not working on Researches, I usually spend my time onnecting with music by singing for a national band. Oh and yah I have a pet name princess",
+        "firstname": "Vibeizonuo",
+        "lastname": "Rupreo",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Female",
+        "totaleducation": 0,
+        "totalexperience": 0,
+        "totalAward": 4,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": " ",
+                "year": "  "
+            },
+            {
+                "college": " ",
+                "year": "  "
+            },
+            {
+                "college": "  ",
+                "year": "   "
+            }
+        ],
+        "experience": [
+            {
+                "experiencedesc": "  ",
+                "year": "  "
+            },
+            {
+                "experiencedesc": " ",
+                "year": " "
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": "S. S. Bhatnagar Young Scientist Award in the International Conference organized by Indian Chemical Society ",
+                "year": " "
+            },
+            {
+                "awardsdesc": "Graduate Aptitude test in Engineering (GATE) recipient of Institute fellowship ",
+                "year": "2020 "
+            },
+            {
+                "awardsdesc": "Project fellow, NER-Twinning Project Scheme, DBT",
+                "year": "Govt. of India 2019-2020 "
+            },
+            {
+                "awardsdesc": "INSPIRE scholarship recipient",
+                "year": " "
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            },
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "image": "Content/AkitoISema.jpg",
+        "name": "Akito I Sema",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland",
+        "aboutdesc": "Akito I Sema obtained his Master degree in chemistry at Nagaland University, Lumami. Currently he is doing his PhD at National Institute of Technology Nagaland, India. His research interest includes the conversion of biomass and non-biomass waste as low-cost sustainable material towards environmental pollution remediation. His work also focuses on the hysico-chemical assessment of surface and ground water, carbon quantum dots and polymeric foam based material.Hobby: Watching documentary and Fishing/ Angling Sidelines Features: Adventuring new places, imaginative/ philosophical,craze for new technological advancement (computer and research), cultural/ traditional practices (mostly in art and craft) and social economy, open for learning in new research areas.",
+        "researchIntrest": " ",
+        "about":"Research interest includes the conversion of biomass and non-biomass waste as low-cost sustainable material towards environmental pollution remediation. His work also focuses on the physico-chemical assessment of surface and ground water, carbon quantum dots and polymeric foam based material. <br/> “Give guidance in research and let them explore the wonders of it.” <br/> “Be open to new fields of research. Either we are right or we may end up close to the right direction.”",
+        "firstname": "Akito I",
+        "lastname": "Sema",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Male",
+        "totaleducation": 2,
+        "totalexperience": 0,
+        "totalAward": 0,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": " PhD at National Institute of Technology Nagaland, India. ",
+                "year": "  2022-now "
+            },
+            {
+                "college": "Master degree in chemistry at Nagaland University, Lumami ",
+                "year": "  "
+            }
+            
+        ],
+        "experience": [
+            {
+                "experiencedesc": "  ",
+                "year": "  "
+            },
+            {
+                "experiencedesc": " ",
+                "year": " "
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": " ",
+                "year": " "
+            },
+            {
+                "awardsdesc": " ",
+                "year": " "
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            },
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "image": "Content/NungshiobaJamir.jpg",
+        "name": "Nungshioba Jamir",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland",
+        "aboutdesc": "Hi, my name is Mr. Nungshioba Jamir. I have completed my Masters in Pharmaceutical Chemistry from Regional Institute of Paramedical and Nursing Sciences(RIPANS), Mizoram and currently pursuing my PhD from NIT, Nagaland as a pert time scholar. I love playing and watching football",
+        "researchIntrest": " ",
+        "about":"Hi, my name is Mr. Nungshioba Jamir. I have completed my Masters in Pharmaceutical Chemistry from Regional Institute of Paramedical and Nursing Sciences(RIPANS), Mizoram and currently pursuing my PhD from NIT, Nagaland as a pert time scholar. I love playing and watching football.",
+        "firstname": "Nungshioba",
+        "lastname": "Jamir",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Male",
+        "totaleducation": 2,
+        "totalexperience": 0,
+        "totalAward": 0,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": " PhD at National Institute of Technology Nagaland, India. ",
+                "year": "  2022-now "
+            },
+            {
+                "college": "Masters in Pharmaceutical Chemistry from Regional Institute of Paramedical and Nursing Sciences(RIPANS), Mizoram ",
+                "year": "  "
+            }
+        ],
+        "experience": [
+            {
+                "experiencedesc": "  ",
+                "year": "  "
+            },
+            {
+                "experiencedesc": " ",
+                "year": " "
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": " ",
+                "year": " "
+            },
+            {
+                "awardsdesc": " ",
+                "year": " "
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            },
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
+    },
+    
+    {
+        "image": "https://dummyimage.com/202x202",
+        "name": "member4name",
+        "designation": "member4designation",
+        "about": "member4about",
+        "contact": "member4contact"
+    }
+]
