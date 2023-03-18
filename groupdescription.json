@@ -5,7 +5,7 @@
         "name": "Dr. Jhimli Bhattacharyya",
         "Groupposition": "Group Head",
         "designation": "Assistant Professor in Chemistry",
-        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, eligendi dolorum sequi illum qui unde aspernatur non deserunt",
+        "about":"",
         "firstname": "Jhimli",
         "lastname": "Bhattacharyya",
         "personalemail": "jhimli.bhattacharyya@gmail.com",
@@ -20,7 +20,7 @@
         "education": [
             {
                 "college": "Doctorate: Ph.D (Science) from Jadavpur University",
-                "year": "Thesis title: Mechanistic Studies of redox reactions of diiron(III,III) complexes in aqueous solution, November 2007 "
+                "year": "Thesis title: Mechanistic Studies of redox reactions of diiron(III,III) complexes in aqueous solution,  2007 "
             },
             {
                 "college": "Master of Science: M.Sc in Chemistry from Jadavpur University",
@@ -34,11 +34,11 @@
         "experience": [
             {
                 "experiencedesc": "Research Associate: Biophysical Chemistry Lab, Chemistry Division, Indian Institute of Chemical Biology (IICB), Kolkata, India",
-                "year": "June 2011 – August 2013"
+                "year": " 2011 –  2013"
             },
             {
                 "experiencedesc": "Post Doctoral Fellow: Frontier Institute for Biomolecular Engineering Research (FIBER), Konan University, Kobe, Japan",
-                "year": "June 2008 – March 2011"
+                "year": " 2008 –  2011"
             }
         ],
         "awards": [
@@ -48,49 +48,49 @@
             },
             {
                 "awardsdesc": "2016 Fulbright-Nehru International Education Administrators Seminar",
-                "year": "Awarded by Fulbright Commission, USIEF (Oct 2016)."
+                "year": "Awarded by Fulbright Commission, USIEF (2016)."
             },
             {
-                "awardsdesc": "Research Associate fellowship from Council of Scientific and Industrial Research(CSIR)",
-                "year": "Govt. of India in 2012."
+                "awardsdesc": "",
+                "year": ""
             },
             {
-                "awardsdesc": "Post Doctoral Fellowship (from JSPS project) from Frontier Institute for Biomolecular Engineering Research (FIBER)",
-                "year": "Konan University, Kobe, Japan in 2008"
+                "awardsdesc": "",
+                "year": ""
             },
             {
-                "awardsdesc": "Joint CSIR-UGC National Eligibility Test (NET)",
-                "year": "June 2003"
+                "awardsdesc": "",
+                "year": ""
             },
             {
-                "awardsdesc": "Graduate Aptitude Test in Engineering (GATE)",
-                "year": "February 2003"
+                "awardsdesc": "",
+                "year": ""
             },
             {
-                "awardsdesc": "National Merit Scholar",
-                "year": "Govt. of India: 1993, 1995."
+                "awardsdesc": "",
+                "year": ""
             }
         ],
         "project": [
             {
-                "projectdesc": "Award Grant for “2016 Fulbright-Nehru International Education Administrators Seminar” at Washington DC metro and North Carolina",
-                "year": "Funded/awarded by Fulbright Commission, USIEF (Oct 2016). (not availed)"
+                "projectdesc": "",
+                "year": ""
             },
             {
                 "projectdesc": "Drug-Gold Nano Particle Bioconjugates: Synthesis, Characterization and Applications under Dilute and Molecular Crowding condition",
-                "year": "Funded by UGC-DAE, Mumbai Center, BARC, Mumbai (Jan 2017 – ongoing)"
+                "year": "Funded by UGC-DAE, Mumbai Center, BARC, Mumbai (2017 – ongoing)"
             },
             {
                 "projectdesc": "Study of non-edible plant oils of North-East: Extraction, compositional Characterization and Analysis for Industrial Applications",
-                "year": "Funded by North Eastern Council, Govt. of India (Jan 2017 – Dec 2019). (as Co-PI)"
+                "year": "Funded by North Eastern Council, Govt. of India (2017 – 2019). (as Co-PI)"
             },
             {
                 "projectdesc": "Biophysical Studies of DNA Interaction with Indole Alkaloids Extracted from North East Indian Biodiversity funded by DBT",
-                "year": "Govt. of India (April 2019 – March ongoing)"
+                "year": "Govt. of India (2019 – March ongoing)"
             },
             {
                 "projectdesc": "On Structure-Function Relationship Studies of Protein with Ligands Derived from Medicinal Plants of Nagaland: A Robust Approach for Drug Design",
-                "year": "Funded by TEQIP –III National Institute of Technology Nagaland (Sept 2019 – ongoing)"
+                "year": "Funded by TEQIP –III National Institute of Technology Nagaland (2019 – ongoing)"
             }
         ]
     },
@@ -100,7 +100,7 @@
         "name": "Ms. A. Mavani",
         "Groupposition": "Group Member",
         "designation": "DST Women Scientist-A at NIT Nagaland",
-        "about":"Assessment of antimicrobial effects on biomacromolecules (proteins, DNA etc.), synthesizing nanoparticles, drug-protein interaction study, enhancing bioavailability of drug by using surfactants, nanoparticles etc. ",
+        "about":"Assessment of antimicrobial effects on biomacromolecules (proteins, DNA etc.), synthesizing nanoparticles, drug-protein interaction study, enhancing bioavailability of drug through interaction with surfactants and nanoparticles",
         "researchIntrest": "Assessment of antimicrobial effects on biomacromolecules (proteins, DNA etc.), synthesizing nanoparticles, drug-protein interaction study, enhancing bioavailability of drug by using surfactants, nanoparticles etc. ",
         "firstname": "A",
         "lastname": "Mavani",
@@ -111,40 +111,56 @@
         "gender": "Female",
         "address": "NIT Nagaland, Chumukeidma, Dimapur, Nagaland 797103, INDIA",
         "permanentaddress": "NIT Nagaland, Chumukeidma, Dimapur, Nagaland 797103, INDIA",
-        "totaleducation": 0,
-        "totalexperience": 2,
-        "totalAward": 0,
-        "totalProject": 0,
+        "totaleducation": 3,
+        "totalexperience": 0,
+        "totalAward": 3,
+        "totalProject": 2,
         "education": [
             {
-                "college": " ",
+                "college": "Doctorate: Ph. D (Science) from National Institute of Technology Nagaland Thesis title: Studies on sulfa drug interaction with surfactants and proteins ",
+                "year": "Oct. 2022."
+            },
+            {
+                "college": "Master of Science: M. Sc in Chemistry from Manipur University 2014, Specialization: Physical Chemistry ",
                 "year": " "
             },
             {
-                "college": " ",
+                "college": "Bachelor of Science: B. Sc with Chemistry Honours from Patkai Christian College under Nagaland University ",
                 "year": " "
             }
         ],
         "experience": [
             {
-                "experiencedesc": "Project PI of Women Scientist Scheme – A (WOS-A) Award Grant,",
-                "year": "Project entitled “Elucidation of binding interactions between human proteins and sulfanilamide drugs through biophysical technique.” (DST/WOS-A/CS-83/2019), funded/awarded by Ministry of Science and Technology, Department o Science and Technology, Govt. of India"
+                "experiencedesc": "",
+                "year": ""
             },
             {
-                "experiencedesc": "Project fellow in a UGC-DAE project entitled “Drug-Gold Nano Particle Bioconjugates: Synthesis, Characterization and Applications under Dilute and Molecular Crowding condition",
-                "year": "(CRS-M-266)  funded by UGC-DAE, Mumbai Center, BARC, Mumbai under the guidance of Dr. Jhimli Bhatcharyya, Department of Chemistry, National Institute of Technology Nagaland, Dimapur, India."
+                "experiencedesc": "",
+                "year": ""
             }
         ],
         "awards": [
             {
-                "awardsdesc": " ",
+                "awardsdesc": "Joint CSIR-UGC JRF-NET, ",
+                "year": " Dec. 2019"
+            },
+            {
+                "awardsdesc": "Graduate Aptitute Test in Engineering (GATE)",
+                "year": "Feb. 2020"
+            },
+            {
+                "awardsdesc": "Award Grant for DST Women Scientist – A (WOS-A) research scheme ",
                 "year": " "
             }
         ],
         "project": [
             {
-                "projectdesc": " ",
-                "year": " "
+                "projectdesc": "Project PI of Women Scientist Scheme – A (WOS-A) Award Grant ",
+                "year": " Project entitled “Elucidation of binding interactions between human proteins and sulfanilamide drugs through biophysical technique.” (DST/WOS-A/CS-83/2019), funded/awarded by Ministry of Science and Technology, Department o Science and Technology, Govt. of India"
+            },
+            {
+                "projectdesc": "Project fellow in a UGC-DAE project entitled “Drug-Gold Nano Particle Bioconjugates: Synthesis, Characterization and Applications under Dilute and Molecular Crowding condition",
+                "year": "(CRS-M-266)  funded by UGC-DAE, Mumbai Center, BARC, Mumbai under the guidance of Dr. Jhimli Bhatcharyya, Department of Chemistry, National Institute of Technology Nagaland, Dimapur, India."
             }
         ]
     },
@@ -155,7 +171,7 @@
         "Groupposition": "Group Member",
         "designation": "PhD in Chemistry from NIT Nagaland",
         "about":"Hi, my name is Dr. AbenOvung. I completed my PhD in Chemistry (March 2022) from National Institute of Technology,Nagaland. I did my Masters in Chemistry from North Eastern Hill University, Shillong, Meghalaya. I love singing and playing violin.",
-        "aboutdesc": "Hi, my name is Dr. AbenOvung. I completed my PhD in Chemistry (March 2022) from National Institute of Technology, Nagaland. I did my Masters in Chemistry from North Eastern Hill University, Shillong, Meghalaya. I love singing and playing violin.",
+        
         "researchIntrest": " ",
         "firstname": "AbenOvung",
         "lastname": " ",
@@ -169,10 +185,6 @@
         "totalAward": 0,
         "totalProject": 0,
         "education": [
-            {
-                "college": " ",
-                "year": " "
-            },
             {
                 "college": "North Eastern Hill University, Shillong, Meghalaya ",
                 "year": " "
@@ -221,23 +233,27 @@
         "researchIntrest": " ",
         "firstname": "Soching ",
         "lastname": "Luikham ",
-        "personalemail": " ",
+        "personalemail": "Sochingluikham@gmail.com",
         "officemail": "  ",
         "phone": " ",
         "officephone": " ",
         "gender": "Male",
-        "totaleducation": 0,
+        "totaleducation": 3,
         "totalexperience": 0,
-        "totalAward": 13,
+        "totalAward": 0,
         "totalProject": 0,
         "education": [
             {
-                "college": " ",
-                "year": " "
+                "college": "GATE Qualified",
+                "year": "2019"
             },
             {
-                "college": " ",
-                "year": " "
+                "college": "M.Sc. Pune University, Maharashtra",
+                "year": "2018"
+            },
+        	{
+                "college": "B.Sc. Pune University, Maharashtra",
+                "year": "2016"
             }
         ],
         "experience": [
@@ -317,7 +333,7 @@
         "name": "Rengka Tissopi",
         "Groupposition": "Group Member",
         "designation": "Pursuing PhD from NIT Nagaland",
-        "aboutdesc": "In the year 2022, I joined NIT Nagaland as research scholar, hailing from the West Karbi AngIong district of Assam. In my spare time, I enjoy arts and crafts.",
+        
         "researchIntrest": " ",
         "about":"Hi, I’m Rengka. In the year 2022, I joined NIT Nagaland as research scholar, hailing from the West Karbi AngIong district of Assam. In my spare time, I enjoy arts and crafts.",
         "firstname": "Rengka",
@@ -370,7 +386,7 @@
         "name": "Deepak Das",
         "Groupposition": "Group Member",
         "designation": "Pursuing PhD from NIT Nagaland",
-        "aboutdesc": " ",
+        
         "researchIntrest": " ",
         "about":"",
         "firstname": "Deepak",
@@ -394,14 +410,14 @@
                 "year": " 2022"
             },
             {
-                "college": "GATE (2020) Qualified ",
-                "year": " 2020 "
+                "college": "",
+                "year": ""
             }
         ],
         "experience": [
             {
-                "experiencedesc": "Represented India for the Youth Exchange Programme  ",
-                "year": "In the year 2019 at Kazakhstan "
+                "experiencedesc": "",
+                "year": ""
             },
             {
                 "experiencedesc": " ",
@@ -427,9 +443,9 @@
         "name": "Vibeizonuo Rupreo",
         "Groupposition": "Group Member",
         "designation": "Pursuing PhD from NIT Nagaland",
-        "aboutdesc": "My name is Vibeizonuo Rupreo also known by the name Jez, I have completed my Masters majoring in Chemistry and currently pursuing my PhD from NIT, Nagaland. When I am not working on Researches, I usually spend my time connecting with music by singing for a national band. Oh and yah I have a pet name princess",
+        
         "researchIntrest": " ",
-        "about":"Hello everyone! My name is Vibeizonuo Rupreo also known by the name Jez, I have completed my Masters majoring in Chemistry and currently pursuing my PhD from NIT, Nagaland. When I am not working on Researches, I usually spend my time onnecting with music by singing for a national band. Oh and yah I have a pet name princess",
+        "about":"Hello everyone! My name is Vibeizonuo Rupreo also known by the name Jez, I have completed my Masters majoring in Chemistry and currently pursuing my PhD from NIT, Nagaland. When I am not working on Researches, I usually spend my time connecting with music by singing for a national band. Oh and yah I have a pet name princess",
         "firstname": "Vibeizonuo",
         "lastname": "Rupreo",
         "personalemail": " ",
@@ -439,7 +455,7 @@
         "gender": "Female",
         "totaleducation": 0,
         "totalexperience": 0,
-        "totalAward": 4,
+        "totalAward": 0,
         "totalProject": 0,
         "education": [
             {
@@ -500,7 +516,7 @@
         "name": "Akito I Sema",
         "Groupposition": "Group Member",
         "designation": "Pursuing PhD from NIT Nagaland",
-        "aboutdesc": "Akito I Sema obtained his Master degree in chemistry at Nagaland University, Lumami. Currently he is doing his PhD at National Institute of Technology Nagaland, India. His research interest includes the conversion of biomass and non-biomass waste as low-cost sustainable material towards environmental pollution remediation. His work also focuses on the hysico-chemical assessment of surface and ground water, carbon quantum dots and polymeric foam based material.Hobby: Watching documentary and Fishing/ Angling Sidelines Features: Adventuring new places, imaginative/ philosophical,craze for new technological advancement (computer and research), cultural/ traditional practices (mostly in art and craft) and social economy, open for learning in new research areas.",
+        
         "researchIntrest": " ",
         "about":"Research interest includes the conversion of biomass and non-biomass waste as low-cost sustainable material towards environmental pollution remediation. His work also focuses on the physico-chemical assessment of surface and ground water, carbon quantum dots and polymeric foam based material. <br/> “Give guidance in research and let them explore the wonders of it.” <br/> “Be open to new fields of research. Either we are right or we may end up close to the right direction.”",
         "firstname": "Akito I",
@@ -562,7 +578,7 @@
         "name": "Nungshioba Jamir",
         "Groupposition": "Group Member",
         "designation": "Pursuing PhD from NIT Nagaland",
-        "aboutdesc": "Hi, my name is Mr. Nungshioba Jamir. I have completed my Masters in Pharmaceutical Chemistry from Regional Institute of Paramedical and Nursing Sciences(RIPANS), Mizoram and currently pursuing my PhD from NIT, Nagaland as a pert time scholar. I love playing and watching football",
+        
         "researchIntrest": " ",
         "about":"Hi, my name is Mr. Nungshioba Jamir. I have completed my Masters in Pharmaceutical Chemistry from Regional Institute of Paramedical and Nursing Sciences(RIPANS), Mizoram and currently pursuing my PhD from NIT, Nagaland as a pert time scholar. I love playing and watching football.",
         "firstname": "Nungshioba",
@@ -619,10 +635,194 @@
     },
     
     {
-        "image": "https://dummyimage.com/202x202",
-        "name": "member4name",
-        "designation": "member4designation",
-        "about": "member4about",
-        "contact": "member4contact"
+        "id": "9",
+        "image": "Content/SenchumbeniYanthan.jpg",
+        "name": "Senchumbeni Yanthan",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland",
+        
+        "researchIntrest": " ",
+        "about":"Hello! My name is Senchumbeni Yanthan. I’m currently pursuing my PhD in Chemistry from National Institute of Technology (NIT) Nagaland. I completed my Masters in Chemistry (MSc) in 2019 from the University of Science & Technology Meghalaya. I served as an Assistant Professor in St Joseph’s College Autonomous Jakhama from 2020-2022. I’m an avid reader and love reading different genres of books during my spare time. ",
+        "firstname": "Senchumbeni",
+        "lastname": "Yanthan",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Female",
+        "totaleducation": 0,
+        "totalexperience": 0,
+        "totalAward": 0,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": " ",
+                "year": "   "
+            },
+            {
+                "college": " ",
+                "year": "  "
+            }
+        ],
+        "experience": [
+            {
+                "experiencedesc": "  ",
+                "year": "  "
+            },
+            {
+                "experiencedesc": " ",
+                "year": " "
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": "Gold medallist in BSc (Chemistry) from Kohima Science College Autonomous, Jotsoma, Nagaland.",
+                "year": " 2017  "
+            },
+            {
+                "awardsdesc": " ",
+                "year": " "
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            },
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "image": "Content/KEVILHOUSADZUVICHU.jpg",
+        "name": "Kevilhousa Dzuvichu",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland",
+        
+        "researchIntrest": " ",
+        "about":"",
+        "firstname": "KEVILHOUSA",
+        "lastname": "DZUVICHU",
+        "personalemail": "dkevilhousa@gmail.com ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Male",
+        "totaleducation": 3,
+        "totalexperience": 0,
+        "totalAward": 0,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": " B.Sc. : Patkia Christian College",
+                "year": "   "
+            },
+            {
+                "college": "B.Ed. : Mount Mary college ",
+                "year": "  "
+            },
+            {
+                "college": "M.Sc.: Nagaland University",
+                "year": "  "
+            }
+        ],
+        "experience": [
+            {
+                "experiencedesc": "  ",
+                "year": "  "
+            },
+            {
+                "experiencedesc": " ",
+                "year": " "
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": " ",
+                "year": " "
+            },
+            {
+                "awardsdesc": " ",
+                "year": " "
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            },
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "image": "Content/Sosangtemjen.jpg",
+        "name": "Sosangtemjen",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland",
+        
+        "researchIntrest": " ",
+        "about":"",
+        "firstname": "Sosangtemjen",
+        "lastname": "",
+        "personalemail": "sossotlofficial@gmail.com ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " ",
+        "gender": "Male",
+        "totaleducation": 3,
+        "totalexperience": 0,
+        "totalAward": 1,
+        "totalProject": 0,
+        "education": [
+            {
+                "college": "B. Sc. - Patkai Christian College (Autonomous), Seithekema ",
+                "year": "   "
+            },
+            {
+                "college": "M. Sc. - St. Joseph University, Dimapur ",
+                "year": "  "
+            },
+            {
+                "college": "CSIR-UGC NET (JRF) Qualified",
+                "year": " "
+            }
+        ],
+        "experience": [
+            {
+                "experiencedesc": "  ",
+                "year": "  "
+            },
+            {
+                "experiencedesc": " ",
+                "year": " "
+            }
+        ],
+        "awards": [
+            {
+                "awardsdesc": "2nd Prize in First National Level Technical Symposium organised by Department of Civil Engineering, St. Joseph University, Dimapur",
+                "year": ""
+            },
+            {
+                "awardsdesc": " ",
+                "year": " "
+            }
+        ],
+        "project": [
+            {
+                "projectdesc": " ",
+                "year": " "
+            },
+            {
+                "projectdesc": " ",
+                "year": " "
+            }
+        ]
     }
 ]

@@ -99,6 +99,39 @@
         "officemail": " ",
         "phone": " ",
         "officephone": " "
+},
+{
+    "id":"9",
+    "image": "Content/SenchumbeniYanthan.jpg",
+        "name": "Senchumbeni Yanthan",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland ",
+        "personalemail": " ",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " "
+},
+{
+    "id":"10",
+    "image": "Content/KEVILHOUSADZUVICHU.jpg",
+        "name": "Kevilhousa Dzuvichu",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland ",
+        "personalemail": "dkevilhousa@gmail.com",
+        "officemail": " ",
+        "phone": " ",
+        "officephone": " "
+},
+{
+    "id":"11",
+    "image": "Content/Sosangtemjen.jpg",
+        "name": "Sosangtemjen",
+        "Groupposition": "Group Member",
+        "designation": "Pursuing PhD from NIT Nagaland ",
+        "personalemail": " sossotlofficial@gmail.com",
+        "officemail": " ",
+        "phone": "8730935340 ",
+        "officephone": " "
 }
 ]
 

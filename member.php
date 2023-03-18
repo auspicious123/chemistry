@@ -7,13 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
     <link rel="stylesheet" href="assets/member.css">
-    <!-- <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
-    <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="members.json"></script> -->
+   
 </head>
 
 <body>
@@ -23,44 +17,7 @@
         }
     </style>
     <!-- Navbar -->
-    <header class="text-gray-400 bg-gray-900 body-font">
-        <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-            <a class="flex title-font font-medium items-center text-white mb-4 md:mb-0">
-                <svg xmlns="
-                       // http://www.w3.org/2000/svg
-                        " fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
-                    <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-                </svg>
-                <span class="ml-3 text-xl">Chemistry</span>
-            </a>
-            <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-end">
-                <a href="index.php" class="mr-5 hover:text-white"> Home </a>
-
-                <a data-dropdown-toggle="dropdownDivider" class="mr-5 hover:text-white">Our Group</a>
-                <!-- Dropdown menu -->
-                <div id="dropdownDivider" class="hidden z-10 w-44 bg-white rounded divide-y divide-gray-100 shadow dark:bg-gray-700 dark:divide-gray-600">
-                    <ul class="py-1 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDividerButton">
-                        <li>
-                            <a href="groupLeader.php" class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Leader</a>
-                        </li>
-                        <li>
-                            <a href="groupMember.php" class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Member</a>
-                        </li>
-                        <li>
-                            <a href="#" class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Collaborator</a>
-                        </li>
-                    </ul>
-                    <div class="py-1">
-                        <a href="#" class="block py-2 px-4 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">Alumini</a>
-                    </div>
-                </div>
-                <a class="mr-5 hover:text-white">Awards</a>
-                <a href="gallery.php" class="mr-5 hover:text-white">Gallery</a>
-
-            </nav>
-        </div>
-    </header>
-
+    <?php include 'header.php' ?>
     <?php
     $url = 'groupdescription.json'; // path to your JSON file
     $data = file_get_contents($url); // put the contents of the file into a variable
@@ -76,9 +33,6 @@
             <div class="w-full md:w-3/12 md:mx-2">
                 <!-- Profile Card -->
                 <div class="bg-white p-3 border-t-4 border-green-400">
-                    <div class="image overflow-hidden">
-                        <img class="h-auto w-full mx-auto" src="https://lavinephotography.com.au/wp-content/uploads/2017/01/PROFILE-Photography-112.jpg" alt="">
-                    </div>
                     <img class="h-16 w-16 rounded-full m-2" src="<?php echo $characters[$url_id]->image  ?>" alt="">
                     <a href="#" class="text-main-color text-gray-900 font-bold text-xl leading-8 my-1"><?php echo $characters[$url_id]->name  ?></a>
                     <!-- <h1 class="text-gray-900 font-bold text-xl leading-8 my-1">Dr. Jhimli Bhattacharyya</h1> -->
@@ -90,10 +44,10 @@
                             <span>Status</span>
                             <span class="ml-auto"><span class="bg-green-500 py-1 px-2 rounded text-white text-sm">Active</span></span>
                         </li>
-                        <li class="flex items-center py-3">
+                        <!-- <li class="flex items-center py-3">
                             <span>Member since</span>
                             <span class="ml-auto">Nov 07, 2016</span>
-                        </li>
+                        </li> -->
                     </ul>
                     <div class="p-3 border-t-4 border-green-400 my-6"></div>
                 </div>
@@ -129,28 +83,21 @@
                                 <div class="px-4 py-2 font-semibold">Last Name</div>
                                 <div class="px-4 py-2"><?php echo $characters[$url_id]->lastname  ?></div>
                             </div>
-                            <div class="grid grid-cols-2">
+                            <!-- <div class="grid grid-cols-2">
                                 <div class="px-4 py-2 font-semibold">Gender</div>
-                                <div class="px-4 py-2"><?php echo $characters[$url_id]->gender  ?></div>
-                            </div>
+                                <div class="px-4 py-2"><?php //echo $characters[$url_id]->gender  ?></div>
+                            </div> -->
 
-                            <div class="grid grid-cols-2">
+                            <!-- <div class="grid grid-cols-2">
                                 <div class="px-4 py-2 font-semibold">Contact No.</div>
-                                <div class="px-4 py-2"><a href="tel:<?php echo $characters[$url_id]->phone ?>"><?php echo $characters[$url_id]->phone ?> </a>
-                                    <div class=" py-2"><a href="tel:<?php echo $characters[$url_id]->officephone ?>"><?php echo $characters[$url_id]->officephone ?></a>
+                                <div class="px-4 py-2"><a href="tel:<?php //echo $characters[$url_id]->phone ?>"><?php echo $characters[$url_id]->phone ?> </a>
+                                    <div class=" py-2"><a href="tel:<?php //echo $characters[$url_id]->officephone ?>"><?php echo $characters[$url_id]->officephone ?></a>
                                     </div>
                                 </div>
 
-                            </div>
-                            <!-- <div class="grid grid-cols-2">
-                                <div class="px-4 py-2 font-semibold">Current Address</div>
-                                <div class="px-4 py-2">NIT Nagaland, Chumukedima, Dimapur, Nagaland 797 103, INDIA</div>
-                            </div>
-                            <div class="grid grid-cols-2">
-                                <div class="px-4 py-2 font-semibold">Permanant Address</div>
-                                <div class="px-4 py-2">NIT Nagaland, Chumukedima, Dimapur, Nagaland 797 103, INDIA</div>
                             </div> -->
-                            <div class="grid sm:grid-cols-2">
+                            
+                            <div class="grid md:grid-cols-2">
                                 <div class="px-4 py-2 font-semibold">Email</div>
                                 <div class="px-4 py-2">
                                     <a class="text-blue-800" href="mailto:<?php echo $characters[$url_id]->personalemail  ?> "><?php echo $characters[$url_id]->personalemail  ?>
@@ -173,7 +120,6 @@
 
                 <!-- Post Doctoral Experience -->
                 <div class="bg-white p-3 shadow-sm rounded-sm">
-
                     <div class="grid md:grid-cols-2">
                         <div>
                             <div class="flex items-center space-x-2 font-semibold text-gray-900 leading-8 mb-3">
@@ -274,9 +220,9 @@
                                 <?php
                                 if ($characters[$url_id]->totalProject == 0) {
                                 ?>
-                                    <!-- <li>
+                                    <li>
                                         <div class="text-teal-600">No Projects </div>
-                                    </li> -->
+                                    </li>
 
                                     <?php
                                 } else {
@@ -364,6 +310,7 @@
     </div>
 
 
+   
 
 
 
